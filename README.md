@@ -26,5 +26,5 @@ NSDC - AI Data Scientist (NSDC, Aug 2024)
 📫 Let's Connect!
 Email: saurabhgavali2000@gmail.com
 LinkedIn: https://www.linkedin.com/in/saurabh2120
-GitHub: saurabhG2120
+
 
