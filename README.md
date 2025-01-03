@@ -22,11 +22,14 @@ Other Tools: MS Office
 
 🏆 Certifications
 IBM Certified Specialist - Cognos TM1 10.1 Data Analysis (2024)
+
 SQL - Data Analysis (I.T.Vedant, 2024)
+
 NSDC - AI Data Scientist (NSDC, Aug 2024)
 
 📫 Let's Connect!
 Email: saurabhgavali2000@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/saurabh2120
 
 
