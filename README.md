@@ -21,6 +21,7 @@ Machine Learning & AI: ANN, CNN, Deep Learning
 Other Tools: MS Office
 
 🏆 Certifications
+
 IBM Certified Specialist - Cognos TM1 10.1 Data Analysis (2024)
 
 SQL - Data Analysis (I.T.Vedant, 2024)
