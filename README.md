@@ -4,7 +4,9 @@ Hi there! I'm Saurabh B. Gavali 👋
 I am an Electronics and Telecommunication Engineer transitioning into the exciting field of Data Science and Analytics. With a strong foundation in data analysis,
 machine learning, and visualization tools, I am passionate about leveraging data to create impactful solutions and drive informed decision-making.
 
-🌟 About Me \n
+🌟 About Me 
+
+
 🎓 Education:
 
 Master's in Data Science and Analytics from I.T.Vedant (2024)
